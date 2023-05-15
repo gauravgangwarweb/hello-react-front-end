@@ -86,7 +86,7 @@ To start the application, run the following command
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
-👤 **Rohit Bhatt**
+👤 **Gaurav Gangwar**
 
 - GitHub: [@gauravgangwarweb](https://github.com/gauravgangwarweb)
 - Twitter: [@gauravgangwar](https://twitter.com/gauravgangwar501)
